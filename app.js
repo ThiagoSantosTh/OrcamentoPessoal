@@ -233,7 +233,6 @@ function carregaListaDespesas(despesas = Array(), filtro = false) {
 		linha.insertCell(4).append(btn)
 		console.log(d)
 	})
-
  }
 
  
